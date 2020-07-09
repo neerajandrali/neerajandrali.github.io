@@ -1,2 +1,2 @@
-# neerajandrali.github.io
+# Neeraj Andrali #
 A website for web design
